@@ -3,9 +3,10 @@
 ## 2021
 
 <details>
-<summary>.NET Cloud Development Course</summary>
+<summary>.NET Cloud Development Course (Azure)</summary>
 
-- [AzureCloudExam](https://github.com/RobinAxelsson/AzureCloudExam)
+- [My Cloud Development Blog](https://robinaxelsson.github.io/)
+- [Azure Cloud Exam Project](https://github.com/RobinAxelsson/AzureCloudExam)
 - [ConsoleBlobApp](https://github.com/RobinAxelsson/ConsoleBlobApp)
 - [AzureCTF](https://github.com/RobinAxelsson/AzureCTF)
 - [FavouriteLinkWebApp](https://github.com/RobinAxelsson/FavouriteLinkWebApp)
@@ -13,7 +14,7 @@
 </details>
 
 <details>
-<summary>Python Summer Course</summary>
+<summary>Python Summer Course Chalmers University</summary>
 
 - [Python-3h-exam](https://github.com/RobinAxelsson/python_exam)
 - [Chalmers-LAB1](https://github.com/RobinAxelsson/ChalmersLab1)
@@ -61,7 +62,6 @@
 <summary>Freestyle</summary>
 
 - [SecretPerson](https://github.com/RobinAxelsson/SecretPerson)
-- [ConsoleGUI](https://github.com/RobinAxelsson/ConsoleGUI)
 
 </details>
 
@@ -69,6 +69,8 @@
 <summary>C# Fundamentals</summary>
 
 - [WPF-Store (Exam Project)](https://github.com/RobinAxelsson/PGBSNH20-Projektarbete-Butik)
+- [WPF-Playground](https://github.com/RobinAxelsson/WPFPlayground)
+- [FlagLesson](https://github.com/RobinAxelsson/FlagLessonGUI)
 
 </details>
 
