@@ -46,8 +46,9 @@
 </details>
 
 <details>
-<summary>Mixed Spring Play</summary>
+<summary>Mixed Spring Projects</summary>
 
+- [MatchRacingPairing](https://github.com/RobinAxelsson/MatchRacing)
 - [CatiaV5-Snake](https://github.com/RobinAxelsson/CAT_Snake)
 - [SpotifyAPI-SQL-Client](https://github.com/RobinAxelsson/SpotifyApiSQLClient)
 
