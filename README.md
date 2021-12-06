@@ -34,8 +34,8 @@
 <details>
 <summary>.NET Backend Course</summary>
 
-[LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin)
-[SpaceParkV2](https://github.com/PGBSNH20/spaceparkv2-buddygroup6-renegades)
+- [LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin)
+- [SpaceParkV2](https://github.com/PGBSNH20/spaceparkv2-buddygroup6-renegades)
 
 </details>
 <details>
@@ -52,6 +52,9 @@
 - [MatchRacingPairing](https://github.com/RobinAxelsson/MatchRacing)
 - [CatiaV5-Snake](https://github.com/RobinAxelsson/CAT_Snake)
 - [SpotifyAPI-SQL-Client](https://github.com/RobinAxelsson/SpotifyApiSQLClient)
+- [LiveNETCompiler](https://github.com/RobinAxelsson/LiveNETCompiler)
+- [Advanced WebSocket Tutorial](https://github.com/RobinAxelsson/WebSocketsTutorial)
+- [Http_LAB](https://github.com/RobinAxelsson/http_lab)
 
 </details>
 
@@ -59,7 +62,7 @@
 ## 2020
 
 <details>
-<summary>Freestyle</summary>
+<summary>Mixed Projects</summary>
 
 - [SecretPerson](https://github.com/RobinAxelsson/SecretPerson)
 
