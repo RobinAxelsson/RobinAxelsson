@@ -55,6 +55,7 @@
 - [LiveNETCompiler](https://github.com/RobinAxelsson/LiveNETCompiler)
 - [Advanced WebSocket Tutorial](https://github.com/RobinAxelsson/WebSocketsTutorial)
 - [Http_LAB](https://github.com/RobinAxelsson/http_lab)
+- [RAX_Utilities](https://github.com/RobinAxelsson/RAX_Utilities)
 
 </details>
 
@@ -76,9 +77,18 @@
 - [FlagLesson](https://github.com/RobinAxelsson/FlagLessonGUI)
 
 </details>
+<details>
+<summary>Summer (pre software studies)</summary>
+
+- [AutoHotkey Scripts (private)](https://github.com/RobinAxelsson/AutoHotKey-Scripts)
+- [CATVB-Scripting](https://github.com/RobinAxelsson/CATVB-scripting)
+
+</details>
 
 ---
 
-## Tools
+## Tools/Gist
 
 <https://github.com/RobinAxelsson/ScriptingUtils>
+
+<https://github.com/RobinAxelsson/VisualStudioSnippets>
