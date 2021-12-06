@@ -70,18 +70,19 @@
 </details>
 
 <details>
-<summary>C# Fundamentals</summary>
+<summary>C# Fundamentals (first course to .NET Developer)</summary>
 
-- [WPF-Store (Exam Project)](https://github.com/RobinAxelsson/PGBSNH20-Projektarbete-Butik)
+- [WPF-Store (Exam Project)](https://github.com/johancz/PGBSNH20-Projektarbete-Butik)
 - [WPF-Playground](https://github.com/RobinAxelsson/WPFPlayground)
 - [FlagLesson](https://github.com/RobinAxelsson/FlagLessonGUI)
 
 </details>
 <details>
-<summary>Summer (pre software studies)</summary>
+<summary>Pre Software Studies</summary>
 
 - [AutoHotkey Scripts (private)](https://github.com/RobinAxelsson/AutoHotKey-Scripts)
 - [CATVB-Scripting](https://github.com/RobinAxelsson/CATVB-scripting)
+- [My First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
 
 </details>
 
