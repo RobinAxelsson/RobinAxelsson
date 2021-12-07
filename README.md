@@ -90,6 +90,6 @@
 
 ## Tools/Gist
 
-<https://github.com/RobinAxelsson/ScriptingUtils>
+<https://github.com/RobinAxelsson/ScriptingUtils> (private)
 
 <https://github.com/RobinAxelsson/VisualStudioSnippets>
