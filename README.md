@@ -24,7 +24,7 @@
 </details>
 
 <details>
-<summary>JavaScript Summer Play</summary>
+<summary>JavaScript Summer Mini Projects</summary>
 
 - [RomanNumerals](https://github.com/RobinAxelsson/RomanNumerals/settings)
 - ConsoleSnakeNode
