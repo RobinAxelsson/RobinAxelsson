@@ -82,7 +82,7 @@
 
 - [AutoHotkey Scripts (private)](https://github.com/RobinAxelsson/AutoHotKey-Scripts)
 - [CATVB-Scripting](https://github.com/RobinAxelsson/CATVB-scripting)
-- [My First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
+- [First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
 
 </details>
 
