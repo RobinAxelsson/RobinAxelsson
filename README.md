@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary>JavaScript Summer Play</summary>
+<summary>JavaScript Summer Mini Projects</summary>
 
 - [RomanNumerals](https://github.com/RobinAxelsson/RomanNumerals/settings)
 - ConsoleSnakeNode
@@ -100,7 +100,7 @@ TODO
 
 - [AutoHotkey Scripts (private)](https://github.com/RobinAxelsson/AutoHotKey-Scripts)
 - [CATVB-Scripting](https://github.com/RobinAxelsson/CATVB-scripting)
-- [My First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
+- [First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
 
 </details>
 
@@ -108,6 +108,6 @@ TODO
 
 ## Tools/Gist
 
-<https://github.com/RobinAxelsson/ScriptingUtils>
+<https://github.com/RobinAxelsson/ScriptingUtils> (private)
 
 <https://github.com/RobinAxelsson/VisualStudioSnippets>
