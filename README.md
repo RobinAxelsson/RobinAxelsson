@@ -38,7 +38,7 @@
 <summary>JavaScript Summer Mini Projects</summary>
 
 - [RomanNumerals](https://github.com/RobinAxelsson/RomanNumerals/settings)
-- ConsoleSnakeNode
+- [ConsoleSnakeNode](https://github.com/RobinAxelsson/NodeConsoleSnake)
 
 </details>
 
