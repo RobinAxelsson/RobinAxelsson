@@ -45,6 +45,7 @@
 <details>
 <summary>.NET Backend Course</summary>
 
+- [Final Exam (private repo)](https://github.com/PGBSNH20/hemtenta-RobinAxelsson)
 - [LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin)
 - [SpaceParkV2](https://github.com/PGBSNH20/spaceparkv2-buddygroup6-renegades)
 
@@ -52,6 +53,7 @@
 <details>
 <summary>.NET Data Access Course</summary>
 
+- [Final Exam (private repo)](https://github.com/PGBSNH20/tenta-RobinAxelsson)
 - [LudoV1](https://github.com/PGBSNH20/ludo-game-grupp-7)
 - [SpaceParkV1](https://github.com/PGBSNH20/spacepark-spacex)
 
