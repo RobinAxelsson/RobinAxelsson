@@ -39,6 +39,8 @@
 
 - [RomanNumerals](https://github.com/RobinAxelsson/RomanNumerals)
 - [ConsoleSnakeNode](https://github.com/RobinAxelsson/NodeConsoleSnake)
+- [Browser based multiplayer Snake (repo)](https://github.com/RobinAxelsson/JS-Browser-Snake)
+- [Browser based multiplayer Snake (hosted)](https://nervous-shannon-18ef1a.netlify.app/)
 
 </details>
 
