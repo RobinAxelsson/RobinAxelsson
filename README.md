@@ -60,6 +60,14 @@
 </details>
 
 <details>
+<summary>Frontend Course</summary>
+
+- [Final project repo](https://github.com/RobinAxelsson/robin-axelsson-web-project)
+- [Final project hosted](https://stoic-panini-7fb81f.netlify.app/)
+
+</details>
+
+<details>
 <summary>Mixed Spring Projects</summary>
 
 - [MatchRacingPairing](https://github.com/RobinAxelsson/MatchRacing)
