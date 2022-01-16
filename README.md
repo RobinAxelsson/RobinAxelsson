@@ -56,7 +56,7 @@
 <summary>.NET Data Access Course</summary>
 
 - [Final Exam (private repo)](https://github.com/PGBSNH20/tenta-RobinAxelsson)
-- [LudoV1](https://github.com/PGBSNH20/ludo-game-grupp-7)
+- [LudoV1](https://github.com/RobinAxelsson/ConsoleLudo)
 - [SpaceParkV1](https://github.com/PGBSNH20/spacepark-spacex)
 
 </details>
