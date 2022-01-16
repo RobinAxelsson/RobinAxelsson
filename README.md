@@ -65,7 +65,7 @@
 <summary>Frontend Course</summary>
 
 - [Final project repo](https://github.com/RobinAxelsson/robin-axelsson-web-project)
-- [Final project hosted (No web frameworks used)](https://stoic-panini-7fb81f.netlify.app/)
+- [Final project hosted on Netlify](https://stoic-panini-7fb81f.netlify.app/)
 
 </details>
 
