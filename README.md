@@ -6,6 +6,7 @@
 
 - [wedding-react-app](https://github.com/RobinAxelsson/wedding-react-app)
 - [wedding-api](https://github.com/RobinAxelsson/wedding-api)
+- [Netlify frontend demo](https://kind-goldwasser-ae48e1.netlify.app/)
 
 </details>
 
