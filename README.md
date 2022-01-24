@@ -1,6 +1,13 @@
 # Code overview: Repositories
 
 ## 2022
+<details>
+<summary>Wedding fullstack app</summary>
+
+- [wedding-react-app](https://github.com/RobinAxelsson/wedding-react-app)
+- [wedding-api](https://github.com/RobinAxelsson/wedding-api)
+
+</details>
 
 <details>
 <summary>Software Production and Delivery - Course</summary>
