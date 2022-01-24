@@ -2,7 +2,7 @@
 
 ## 2022
 <details>
-<summary>Wedding fullstack app</summary>
+<summary>Wedding App Project</summary>
 
 - [wedding-react-app](https://github.com/RobinAxelsson/wedding-react-app)
 - [wedding-api](https://github.com/RobinAxelsson/wedding-api)
