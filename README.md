@@ -1,6 +1,14 @@
 # Code overview: Repositories
 
 ## 2022
+
+<details>
+<summary>Dotnet-tool projects</summary>
+
+- [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
+
+</details>
+
 <details>
 <summary>Wedding App Project</summary>
 
