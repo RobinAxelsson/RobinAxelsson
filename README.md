@@ -5,7 +5,7 @@
 <details>
 <summary>Dotnet-tool projects</summary>
 
-- [dotnet-tool-list](https://github.com/RobinAxelsson/dotnet-tool-list)
+- [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
 
 </details>
 
