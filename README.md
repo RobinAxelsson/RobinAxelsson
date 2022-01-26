@@ -6,6 +6,8 @@
 <summary>Dotnet-tool projects</summary>
 
 - [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
+  
+- [VarbyteCli](https://github.com/RobinAxelsson/VarbyteCli)
 
 </details>
 
