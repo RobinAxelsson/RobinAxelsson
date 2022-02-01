@@ -5,17 +5,15 @@
 <details>
 <summary>Dotnet-tool projects</summary>
 
+- [dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
 - [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
-  
-- [VarbyteCli](https://github.com/RobinAxelsson/VarbyteCli)
-
+ 
 </details>
 
 <details>
 <summary>Wedding App Project</summary>
 
-- [wedding-react-app](https://github.com/RobinAxelsson/wedding-react-app)
-- [wedding-api](https://github.com/RobinAxelsson/wedding-api)
+- [wedding-app (Full Stack)](https://github.com/RobinAxelsson/wedding-app)
 - [Netlify frontend demo](https://kind-goldwasser-ae48e1.netlify.app/)
 
 </details>
