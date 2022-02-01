@@ -3,7 +3,7 @@
 ## Featured
 
 <details>
-<summary></summary>
+<summary>🚀</summary>
 
 - [Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Powerful Console App Framework inspired by ASP.NET.
 - [Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage
