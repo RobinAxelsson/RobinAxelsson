@@ -19,7 +19,9 @@
 <details>
 <summary> 📌 </summary>
 
-[code-love](https://github.com/RobinAxelsson/code-love)
+ <br>
+ 
+[Code Love](https://github.com/RobinAxelsson/code-love)
  
 </details>
 
