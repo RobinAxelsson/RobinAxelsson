@@ -14,6 +14,15 @@
  
 </details>
 
+## Pinned
+
+<details>
+<summary> 📌 </summary>
+
+[code-love](https://github.com/RobinAxelsson/code-love)
+ 
+</details>
+
 ## 2022
 
 <details>
@@ -141,7 +150,6 @@
 <details>
 <summary>Pre Software Studies</summary>
 
-- [AutoHotkey Scripts (private)](https://github.com/RobinAxelsson/AutoHotKey-Scripts)
 - [CATVB-Scripting](https://github.com/RobinAxelsson/CATVB-scripting)
 - [First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
 
@@ -149,8 +157,16 @@
 
 ---
 
-## Tools/Gist
+## Collections
 
-<https://github.com/RobinAxelsson/ScriptingUtils> (private)
+<details>
+<summary></summary>
+ 
+- Configuration OS
+- Runners OS
+- ShellScripting
+ 
+</details>
+
 
 <https://github.com/RobinAxelsson/VisualStudioSnippets>
