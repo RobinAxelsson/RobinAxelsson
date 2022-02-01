@@ -1,7 +1,9 @@
 # Code overview: Repositories
 
+## Featured
+
 <details>
-<summary>Featured</summary>
+<summary></summary>
 
 - [dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
 - [wedding-app (Full Stack)](https://github.com/RobinAxelsson/wedding-app)
