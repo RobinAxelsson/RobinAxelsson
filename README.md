@@ -121,8 +121,8 @@
 - [WPF-Store (Exam Project)](https://github.com/johancz/PGBSNH20-Projektarbete-Butik)
 - [WPF-Playground](https://github.com/RobinAxelsson/WPFPlayground)
 - [FlagLesson](https://github.com/RobinAxelsson/FlagLessonGUI)
-https://github.com/johancz/PGBSNH20_Csharp_Assignment_3
-TODO
+- [C# assignment 3](https://github.com/johancz/PGBSNH20_Csharp_Assignment_3)
+
 </details>
 <details>
 <summary>Pre Software Studies</summary>
