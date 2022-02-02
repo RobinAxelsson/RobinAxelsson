@@ -159,17 +159,3 @@
 </details>
 
 ---
-
-## Collections
-
-<details>
-<summary></summary>
- 
-- Configuration OS
-- Runners OS
-- ShellScripting
- 
-</details>
-
-
-<https://github.com/RobinAxelsson/VisualStudioSnippets>
