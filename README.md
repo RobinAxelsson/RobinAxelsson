@@ -9,7 +9,9 @@
 - [Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Powerful Console App Framework inspired by ASP.NET.
 - [Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage
 - [LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server
-- [LudoV1](https://github.com/RobinAxelsson/ConsoleLudo) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
+- [SpaceParkV2](https://github.com/RobinAxelsson/SpaceParkV2)
+- [LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
+- [SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1)
 
 - [My Cloud Development Blog](https://robinaxelsson.github.io/) - Jekyll/GitHubPages - Articles and Course assignments in one about Azure and Cloud.
  
@@ -92,15 +94,15 @@
 
 - [Final Exam (private repo)](https://github.com/PGBSNH20/hemtenta-RobinAxelsson)
 - [LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin)
-- [SpaceParkV2](https://github.com/PGBSNH20/spaceparkv2-buddygroup6-renegades)
+- [SpaceParkV2](https://github.com/RobinAxelsson/SpaceParkV2)
 
 </details>
 <details>
 <summary>.NET Data Access Course</summary>
 
 - [Final Exam (private repo)](https://github.com/RobinAxelsson/net-dataaccess-exam)
-- [LudoV1](https://github.com/RobinAxelsson/ConsoleLudo)
-- [SpaceParkV1](https://github.com/RobinAxelsson/ConsoleSpacePark)
+- [LudoV1](https://github.com/RobinAxelsson/LudoV1)
+- [SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1)
 
 </details>
 
