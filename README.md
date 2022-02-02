@@ -22,6 +22,7 @@
  <br>
  
 [Code Love](https://github.com/RobinAxelsson/code-love)
+[OS-ShellConfig (private)](https://github.com/RobinAxelsson/OS-ShellTool)
  
 </details>
 
