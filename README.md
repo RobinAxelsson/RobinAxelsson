@@ -11,7 +11,7 @@
 - [LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server
 - [SpaceParkV2](https://github.com/RobinAxelsson/SpaceParkV2)
 - [LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
-- [SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1)
+- [SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1) - ConsoleApp UI doint get requests against [https://swapi.dev/](https://swapi.dev/)
 
 - [My Cloud Development Blog](https://robinaxelsson.github.io/) - Jekyll/GitHubPages - Articles and Course assignments in one about Azure and Cloud.
  
