@@ -25,7 +25,8 @@
 
  <br>
  
-- 🎓 [Exam (private)](https://github.com/PGBSNH20/exjobb-RobinAxelsson)
+- 🎓 [Thesis (private)](https://github.com/PGBSNH20/exjobb-RobinAxelsson)
+- 🎓 [Thesis Board (private)](https://github.com/PGBSNH20/exjobb-RobinAxelsson/projects/1)
 - [Code Love](https://github.com/RobinAxelsson/code-love)
 - [OS-ShellConfig (private)](https://github.com/RobinAxelsson/OS-ShellConfig)
  
