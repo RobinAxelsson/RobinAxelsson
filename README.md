@@ -18,6 +18,8 @@
 
 ## Pinned
 
+[🎓](https://github.com/PGBSNH20/exjobb-RobinAxelsson)
+
 <details>
 <summary> 📌 </summary>
 
