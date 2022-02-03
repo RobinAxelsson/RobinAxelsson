@@ -31,7 +31,7 @@
 ## 2022
 
 <details>
-<summary>Dotnet Tool Projects</summary>
+<summary>🛠️Dotnet Tool Projects</summary>
 
 - [dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
 - [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
@@ -58,7 +58,7 @@
 ## 2021
 
 <details>
-<summary>.NET Cloud Development Course (Azure)</summary>
+<summary> ☁️ .NET Cloud Development Course (Azure)</summary>
 
 - [My Cloud Development Blog](https://robinaxelsson.github.io/)
 - [Azure Cloud Exam Project](https://github.com/RobinAxelsson/AzureCloudExam)
@@ -161,3 +161,10 @@
 </details>
 
 ---
+
+<details>
+<summary>Inspiration & templates</summary>
+
+- [Node/Express/React/Vite Full Stack (with dummy data)](https://github.com/RobinAxelsson/nodehill-template)
+
+</details>
