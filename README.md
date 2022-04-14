@@ -35,6 +35,7 @@
 ## 2022
 
 <details>
+ 
 <summaryDotnet Tool Projects</summary>
 
 - [dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
