@@ -20,8 +20,7 @@
 
 <details>
 <summary> 📌 </summary>
-
- <br>
+ 
 - [Code Love](https://github.com/RobinAxelsson/code-love)
 - [OS-ShellConfig (private)](https://github.com/RobinAxelsson/OS-ShellConfig)
  
@@ -43,6 +42,7 @@
  
 <summary>Private Projects</summary>
 
+- [Rax.ServiceDecorator](https://github.com/RobinAxelsson/Rax.IocTools)
 - [dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
 - [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
 - [wedding-app (Full Stack)](https://github.com/RobinAxelsson/wedding-app)
