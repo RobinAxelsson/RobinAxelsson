@@ -28,6 +28,8 @@
 
 ## 2022
  
+ <details>
+ 
 <summary>Private Projects</summary>
 
 - [Rax.ServiceDecorator](https://github.com/RobinAxelsson/Rax.IocTools)
