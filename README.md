@@ -27,18 +27,6 @@
 </details>
 
 ## 2022
-
-<details>
- 
-<summary>Volvo Cars Projects (Only accessable by Volvo Cars Organization)</summary>
-
- - [CW.RAX.Rest](https://github.com/volvo-cars/CarWeaver.RAX.REST)
- - [CW.RAX.CLI](https://github.com/volvo-cars/CarWeaver.RAX.CLI)
- - [CW.RAX.LAB](https://github.com/volvo-cars/CarWeaver.RAX.LAB)
- 
-</details>
-
-<details>
  
 <summary>Private Projects</summary>
 
