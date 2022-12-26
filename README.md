@@ -160,9 +160,6 @@
 
 ---
 
-<details>
-<summary>Inspiration & templates</summary>
+## Inspiration & templates
 
 - [Node/Express/React/Vite Full Stack (with dummy data)](https://github.com/RobinAxelsson/nodehill-template)
-
-</details>
