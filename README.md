@@ -43,8 +43,6 @@
 </details>
 
 <details>
-
-<details>
 <summary>Software Production and Delivery - Course</summary>
 
 - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
