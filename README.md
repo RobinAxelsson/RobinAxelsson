@@ -1,21 +1,15 @@
 # Code overview: Repositories
 
-## Featured
+## 🚀 Featured 🚀
 
-<details>
-<summary>🚀 Featured 🚀</summary>
-
-- [PyWind - weather web app in python](https://github.com/RobinAxelsson/UberTrains)
-- [UberTrains](https://github.com/RobinAxelsson/UberTrains) - ReactJS/Express/Node/TypeScript/TypeOrm/SQLite/GitHubActions - Train booking app.
-- [Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Powerful Console App Framework inspired by ASP.NET.
-- [Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage
-- [My Cloud Development Blog](https://robinaxelsson.github.io/) - Jekyll/GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
-- [LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server
-- [SpaceParkV2](https://github.com/RobinAxelsson/SpaceParkV2) - ASP.NET webapi/Entity Framework/SQL-Server/Console App Frontend
-- [LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
-- [SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1) - ConsoleApp/http client/Entity Framework doing get requests against [https://swapi.dev/](https://swapi.dev/)
- 
-</details>
+- [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) - ReactJS/Express/Node/TypeScript/TypeOrm/SQLite/GitHubActions - Train booking app.
+- [C# Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
+- [C#/React Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage
+- [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
+- [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server
+- [C# SpaceParkV2](https://github.com/RobinAxelsson/SpaceParkV2) - ASP.NET webapi/Entity Framework/SQL-Server/Console App Frontend
+- [C# LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
+- [C# SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1) - ConsoleApp/http client/Entity Framework doing get requests against [https://swapi.dev/](https://swapi.dev/)
 
 ## Pinned
 
@@ -31,13 +25,21 @@
  
  <details>
  
-<summary>Private Projects</summary>
+<summary>Tools and libraries</summary>
+ 
+- [C# Rax.ServiceDecorator](https://github.com/RobinAxelsson/Rax.IocTools)
+- [C# dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
+- [C# dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
+ 
+</details>
 
-- [Rax.ServiceDecorator](https://github.com/RobinAxelsson/Rax.IocTools)
-- [dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
-- [dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
-- [wedding-app (Full Stack)](https://github.com/RobinAxelsson/wedding-app)
-- [Netlify frontend demo](https://kind-goldwasser-ae48e1.netlify.app/)
+ <details>
+ 
+<summary>Full stack Projects</summary>
+ 
+ - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/UberTrains)
+ - [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/)
+ - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
  
 </details>
 
@@ -52,7 +54,7 @@
 <details>
 <summary>Software Production and Delivery - Course</summary>
 
-- [UberTrains](https://github.com/RobinAxelsson/UberTrains)
+- [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
 
 </details>
 
