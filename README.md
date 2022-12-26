@@ -16,8 +16,7 @@
 <details>
 <summary> 📌 </summary>
  
-- [Code Love](https://github.com/RobinAxelsson/code-love)
-- [OS-ShellConfig (private)](https://github.com/RobinAxelsson/OS-ShellConfig)
+- [Code Love - Mini programs in all languages](https://github.com/RobinAxelsson/code-love)
  
 </details>
 
@@ -44,12 +43,6 @@
 </details>
 
 <details>
- 
-<summary>Examination .NET Developer</summary>
-
-- 🎓 [Cloud Health Check Report](https://github.com/PGBSNH20/exjobb-RobinAxelsson)
- 
-</details>
 
 <details>
 <summary>Software Production and Delivery - Course</summary>
