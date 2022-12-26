@@ -5,8 +5,7 @@
 <details>
 <summary>🚀 Featured 🚀</summary>
 
- - [PyWind - weather web app in python](https://github.com/RobinAxelsson/UberTrains)
- - [PyWind live](https://pywind.herokuapp.com/)
+- [PyWind - weather web app in python](https://github.com/RobinAxelsson/UberTrains)
 - [UberTrains](https://github.com/RobinAxelsson/UberTrains) - ReactJS/Express/Node/TypeScript/TypeOrm/SQLite/GitHubActions - Train booking app.
 - [Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Powerful Console App Framework inspired by ASP.NET.
 - [Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage
