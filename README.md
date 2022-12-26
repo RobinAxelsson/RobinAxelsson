@@ -37,7 +37,7 @@
  
 <summary>Full stack Projects</summary>
  
- - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/UberTrains)
+ - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
  - [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/)
  - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
  
