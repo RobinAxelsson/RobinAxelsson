@@ -33,12 +33,12 @@
  
  - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
  - [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/)
- - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
+ - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) 📚
  
 </details>
 
 <details>
-<summary>Software Production and Delivery - Course</summary>
+<summary>Software Production and Delivery 📚</summary>
 
 - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
 
@@ -49,7 +49,7 @@
 ## 2021
 
 <details>
-<summary>.NET Cloud Development Course (Azure)</summary>
+<summary>.NET Cloud Development (Azure)📚</summary>
 
 - [My Cloud Development Blog](https://robinaxelsson.github.io/)
 - [Azure Cloud Exam Project](https://github.com/RobinAxelsson/AzureCloudExam)
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary>Python Summer Course Chalmers University</summary>
+<summary>Python Summer Course Chalmers University 📚</summary>
 
 - [Python-3h-exam](https://github.com/RobinAxelsson/python_exam)
 - [Chalmers-LAB1](https://github.com/RobinAxelsson/ChalmersLab1)
@@ -80,7 +80,7 @@
 </details>
 
 <details>
-<summary>.NET Backend Course</summary>
+<summary>.NET Backend 📚</summary>
 
 - [Final Exam (private repo)](https://github.com/PGBSNH20/hemtenta-RobinAxelsson)
 - [LudoV2](https://github.com/PGBSNH20/ludo-v2-group-g5_albin-robin)
@@ -88,7 +88,7 @@
 
 </details>
 <details>
-<summary>.NET Data Access Course</summary>
+<summary>.NET Data Access 📚</summary>
 
 - [Final Exam (private repo)](https://github.com/RobinAxelsson/net-dataaccess-exam)
 - [LudoV1](https://github.com/RobinAxelsson/LudoV1)
@@ -97,7 +97,7 @@
 </details>
 
 <details>
-<summary>Frontend Course</summary>
+<summary>Frontend 📚</summary>
 
 - [Final project repo](https://github.com/RobinAxelsson/robin-axelsson-web-project)
 - [Final project hosted on Netlify](https://stoic-panini-7fb81f.netlify.app/)
@@ -122,13 +122,13 @@
 ## 2020
 
 <details>
-<summary>Database with SQL - Course</summary>
+<summary>Database with SQL 📚</summary>
 
 - [SQLStore - Food Chain](https://github.com/RobinAxelsson/SQL_Store_DatabaseCourse)
 
 </details>
 <details>
-<summary>C# Fundamentals (first course to .NET Developer)</summary>
+<summary>C# Fundamentals 📚</summary>
 
 - [WPF-Store (Exam Project)](https://github.com/johancz/PGBSNH20-Projektarbete-Butik)
 - [WPF-Playground](https://github.com/RobinAxelsson/WPFPlayground)
