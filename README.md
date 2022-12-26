@@ -11,14 +11,9 @@
 - [C# LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
 - [C# SpaceParkV1](https://github.com/RobinAxelsson/SpaceParkV1) - ConsoleApp/http client/Entity Framework doing get requests against [https://swapi.dev/](https://swapi.dev/)
 
-## Pinned
-
-<details>
-<summary> 📌 </summary>
+## 📌 Pinned 📌
  
 - [Code Love - Mini programs in all languages](https://github.com/RobinAxelsson/code-love)
- 
-</details>
 
 ## 2022
  
