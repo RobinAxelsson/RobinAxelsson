@@ -122,13 +122,6 @@
 ## 2020
 
 <details>
-<summary>Mixed Projects</summary>
-
-- [SecretPerson](https://github.com/RobinAxelsson/SecretPerson)
-
-</details>
-
-<details>
 <summary>Database with SQL - Course</summary>
 
 - [SQLStore - Food Chain](https://github.com/RobinAxelsson/SQL_Store_DatabaseCourse)
@@ -144,10 +137,11 @@
 
 </details>
 <details>
-<summary>Pre Software Studies</summary>
+<summary>Other</summary>
 
+- [C# SecretPerson](https://github.com/RobinAxelsson/SecretPerson)
 - [CATVB-Scripting](https://github.com/RobinAxelsson/CATVB-scripting)
-- [First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
+- [VB-scripts First Scripts (private)](https://github.com/RobinAxelsson/MyFirstScripts)
 
 </details>
 
