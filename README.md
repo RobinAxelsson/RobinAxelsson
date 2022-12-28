@@ -21,7 +21,7 @@
  
 <summary>Architecture template</summary>
  
-- [C# toll-calculator](https://github.com/RobinAxelsson/Rax.IocTools](https://github.com/RobinAxelsson/toll-calculator)
+- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator)
  
 </details>
  
