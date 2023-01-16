@@ -36,7 +36,7 @@
  
 <summary>Initial</summary>
  
-- [C#- Local Wind](https://github.com/RobinAxelsson/Rax.LocalWind) private project
+- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) private project
 - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind) (reference from 2022)
  
 </details>
