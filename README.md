@@ -2,29 +2,46 @@
 
 ## 🚀 Featured 🚀
 
-### Console-App
+### Console-App .NET
 - [C# LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
 
-### Full stack Node-React
+### Full Stack Node-React
 - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) - ReactJS/Express/Node/TypeScript/TypeOrm/SQLite/GitHubActions - Train booking app.
 
-### Full stack .NET
-- [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server
+### Full Stack .NET
+- [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server - Game + web platform app
 
-### Docker build
-- [C#/React Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage
+### Docker Magic
+- [C#/React Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage - invitation app with docker multi build
 
-### Nuget contenders
+### Nuget Contenders
 - [C# Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
-- [C# ServiceDecorator - Rax.IocTools]((https://github.com/RobinAxelsson/Rax.IocTools)
+- [C# ServiceDecorator - Rax.IocTools](https://github.com/RobinAxelsson/Rax.IocTools) - IOC Dependency injection tool soon in a nuget package near you!
 
 ### Blog/Web content
 - [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
-- [salihaxelsson.com](https://salihaxelsson.com/) Personal site targets recruiters.
+- [salihaxelsson.com](https://salihaxelsson.com/) my personal site that is targeting recruiters.
 
-## 📌 Pinned 📌
+---
+
+### For practice
  
-- [Code Love - Mini programs in all languages](https://github.com/RobinAxelsson/code-love)
+- [Code Love](https://github.com/RobinAxelsson/code-love) - Mini programs in all languages
+
+---
+
+## 2023
+
+ <details>
+ 
+<summary>Initial</summary>
+ 
+- [C#- Local Wind](https://github.com/RobinAxelsson/Rax.LocalWind) private project
+- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind) (reference from 2022)
+ 
+</details>
+ 
+---
 
 ## 2022
 
