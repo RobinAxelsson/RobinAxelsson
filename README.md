@@ -24,6 +24,12 @@
 
 ---
 
+## Current Project(s)
+
+- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas.
+
+---
+
 ### For practice
  
 - [Code Love](https://github.com/RobinAxelsson/code-love) - Mini programs in all languages
