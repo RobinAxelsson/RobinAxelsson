@@ -30,7 +30,7 @@
 
 - [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas.
 
-- [Ludo V3](https://github.com/RobinAxelsson/Rax.LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
+- [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
 
 - [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
 
