@@ -3,7 +3,7 @@
 ## 🚀 Featured 🚀
 
 ### Console-App .NET
-- [C# LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic Ludo game with no external libraries!
+- [C# LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic ASCII Ludo game with no external libraries!
 
 ### Full Stack Node-React
 - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) - ReactJS/Express/Node/TypeScript/TypeOrm/SQLite/GitHubActions - Train booking app.
@@ -11,12 +11,14 @@
 ### Full Stack .NET
 - [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server - Game + web platform app
 
-### Docker Magic
+### Docker
 - [C#/React Wedding-App (Full Stack)](https://github.com/RobinAxelsson/wedding-app) - ReactJS/ASP.NET/AzureTableStorage - invitation app with docker multi build
 
-### Nuget Contenders
+### Templates
 - [C# Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
-- [C# ServiceDecorator - Rax.IocTools](https://github.com/RobinAxelsson/Rax.IocTools) - IOC Dependency injection tool soon in a nuget package near you!
+
+### Open Source Nuget
+- [C# ServiceDecorator - Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and more coming.
 
 ### Blog/Web content
 - [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
@@ -27,6 +29,10 @@
 ## Current Project(s)
 
 - [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas.
+
+- [Ludo V3](https://github.com/RobinAxelsson/Rax.LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
+
+- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
 
 ---
 
