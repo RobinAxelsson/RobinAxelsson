@@ -4,11 +4,11 @@
 
 ### Current Project(s)
 
-- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas. (private*)
+- [C# True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas. (private*)
 
-- [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
+- [C# Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
 
-- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) nuget repository for code that I want to share between projects and through open source.
+- [C# Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) nuget repository for code that I want to share between projects and through open source.
 
 ### AFRY Coding Challenge Project
 
@@ -44,7 +44,7 @@
 
 ### Python Backend/Full stack
 
-- [imonitor](https://github.com/RobinAxelsson/rax-imonitor) private*
+- [Python imonitor](https://github.com/RobinAxelsson/rax-imonitor) Coding challenge backend with concurrent programming private*
 - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
 
 ***private projects are viewed at request**
