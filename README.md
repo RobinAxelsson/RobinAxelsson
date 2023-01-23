@@ -13,14 +13,14 @@
 ### Full Stack .NET
 - [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server - Game + web platform app
 
-### Cloud IAAS App
-- [C# Azure Cloud Exam Project](https://github.com/RobinAxelsson/AzureCloudExam) - CI/CD, Azure Functions, Cosmos Db
+### Azure Cloud IAAS
+- [C# Cloud Calculators Exam Project](https://github.com/RobinAxelsson/AzureCloudExam) - CI/CD, Azure Functions, GitHub Actions, Cosmos Db, Bash Scripts
 
 ### Templates
 - [C# Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
 
 ### Open Source Nuget
-- [C# ServiceDecorator - Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and more coming.
+- [C# ServiceDecorator - Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and other.
 
 ### Blog/Web content
 - [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
