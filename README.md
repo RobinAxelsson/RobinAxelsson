@@ -37,6 +37,9 @@
 ### Blog/Web content
 - [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
 - [salihaxelsson.com](https://salihaxelsson.com/) my personal site that is targeting recruiters.
+- [wedding app frontend](https://kind-goldwasser-ae48e1.netlify.app/)
+- [Frontend exam - geolocation SPA-app](https://stoic-panini-7fb81f.netlify.app/)
+- [Vanilla javascript Snake](https://nervous-shannon-18ef1a.netlify.app/)
 
 ### Python Backend/Full stack
 
