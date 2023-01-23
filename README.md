@@ -40,6 +40,7 @@
 - [wedding app frontend](https://kind-goldwasser-ae48e1.netlify.app/)
 - [Frontend exam - geolocation SPA-app](https://stoic-panini-7fb81f.netlify.app/)
 - [Vanilla javascript Snake](https://nervous-shannon-18ef1a.netlify.app/)
+- [Bobbysoft nuget for Service Decorator](https://www.nuget.org/packages/Bobbysoft.Extensions.DependencyInjection.Decoration)
 
 ### Python Backend/Full stack
 
