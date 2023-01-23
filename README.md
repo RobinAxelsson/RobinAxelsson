@@ -8,7 +8,7 @@
 
 - [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
 
-- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
+- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) nuget repository for code that I want to share between projects and through open source.
 
 ### AFRY Coding Challenge Project
 
