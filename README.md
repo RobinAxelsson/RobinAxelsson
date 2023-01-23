@@ -2,6 +2,18 @@
 
 ## 🚀 Featured 🚀
 
+### Current Project(s)
+
+- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas. (private*)
+
+- [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
+
+- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
+
+### AFRY Coding Challenge Project
+
+- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator) - An application specification that mimics the challenges of road tolls (similar to gothenburgs road tolls for taxation)
+
 ### Console-App .NET
 
 - [SpacePark V2](https://github.com/RobinAxelsson/SpaceParkV2) - .NET-Console app client and ASP.NET web-api backend with entity framework - space parking system with both admin and user roles authenticated by jwt tokens.
@@ -26,71 +38,40 @@
 - [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
 - [salihaxelsson.com](https://salihaxelsson.com/) my personal site that is targeting recruiters.
 
-## Current Project(s)
+### Python Backend/Full stack
 
-- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas.
+- [imonitor](https://github.com/RobinAxelsson/rax-imonitor) private*
+- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
 
-- [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
-
-- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
+***private projects are viewed at request**
 
 ---
 
-### For practice
+### Multi-language practice repository
  
 - [Code Love](https://github.com/RobinAxelsson/code-love) - Mini programs in all languages
 
 ---
 
 ## 2023
-
- <details>
- 
-<summary>Initial</summary>
  
 - [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) private project
-- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind) (reference from 2022)
- 
-</details>
+- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
+- [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
+- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
+- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator)
  
 ---
 
 ## 2022
 
- <details>
- 
-<summary>Domain library + x-unit template</summary>
- 
+- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
 - [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator)
- 
-</details>
- 
- <details>
- 
-<summary>Tools and libraries</summary>
- 
 - [C# Rax.ServiceDecorator](https://github.com/RobinAxelsson/Rax.IocTools)
 - [C# dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
-- [C# dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info)
- 
-</details>
-
- <details>
- 
-<summary>Full stack Projects</summary>
- 
- - [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
- - [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/)
- - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) 📚
- 
-</details>
-
-<details>
-<summary>Software Production and Delivery 📚</summary>
-
-- [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains)
-
-</details>
+- [C# dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info) 
+- [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/)
+- [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) 📚
 
 ---
 
