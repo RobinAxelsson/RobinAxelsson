@@ -3,6 +3,9 @@
 ## 🚀 Featured 🚀
 
 ### Current Project(s)
+
+- [C# Network CLI](https://github.com/RobinAxelsson/network_cli) Http network programming POC on local host.
+
 - [HTML/JS/CSS BJJ Scorelite](https://github.com/RobinAxelsson/bjj-scorelite) Brazilian Jiu Jitsu scoring tool
 
 - [C# True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas. (private*)
