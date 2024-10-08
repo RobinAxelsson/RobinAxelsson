@@ -2,88 +2,99 @@
 
 ## 🚀 Featured 🚀
 
-### Current Project(s)
+### Console-App
 
-- [C# Network CLI](https://github.com/RobinAxelsson/network_cli) Http network programming POC on local host.
-
-- [HTML/JS/CSS BJJ Scorelite](https://github.com/RobinAxelsson/bjj-scorelite) Brazilian Jiu Jitsu scoring tool
-
-- [C# True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) is aimed to become a new type of wind app for smaller areas. (private*)
-
-- [C# Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
-
-- [C# Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) nuget repository for code that I want to share between projects and through open source.
-
-### AFRY Coding Challenge Project
-
-- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator) - An application specification that mimics the challenges of road tolls (similar to gothenburgs road tolls for taxation)
-
-### Console-App .NET
-
-- [SpacePark V2](https://github.com/RobinAxelsson/SpaceParkV2) - .NET-Console app client and ASP.NET web-api backend with entity framework - space parking system with both admin and user roles authenticated by jwt tokens.
 - [C# LudoV1](https://github.com/RobinAxelsson/LudoV1) - .NET-ConsoleApp/EntityFramework/SQL-Server - epic ASCII Ludo game with no external libraries!
+- [SpacePark V2](https://github.com/RobinAxelsson/SpaceParkV2) - .NET-Console app client and ASP.NET web-api backend with entity framework - space parking system with both admin and user roles authenticated by jwt tokens.
 
-### Full Stack Node-React
+### Full Stack
+- [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server - Game + web platform app
 - [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) - ReactJS/Express/Node/TypeScript/TypeOrm/SQLite/GitHubActions - Train booking app.
 
-### Full Stack .NET
-- [C# LudoV2](https://github.com/RobinAxelsson/LudoV2) - ASP.NET/RazorPages/VanillaJavascript/SignalR/EntityFramework/SQL-Server - Game + web platform app
-
-### Azure Cloud IAAS
 - [C# Cloud Calculators Exam Project](https://github.com/RobinAxelsson/AzureCloudExam) - CI/CD, Azure Functions, GitHub Actions, Cosmos Db, Bash Scripts
 
-### Templates
+### Nuget, Template
+- [C# ServiceDecorator - Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and other.
 - [C# Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
 
-### Open Source Nuget
-- [C# ServiceDecorator - Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and other.
+### API
 
-### Blog/Web content
+- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator) - AFRY project design coding challenge - An application specification that mimics the challenges of road tolls (similar to gothenburgs road tolls for taxation)
+
+### Backend
+
+- [Python imonitor](https://github.com/RobinAxelsson/rax-imonitor)  [ REST-API | Concurrency | Computer-metrics | Flask ]
+    - Coding project challenge for company Cetasol reading computer metrics and serving them on an Rest API private*
+
+### Static Pages (Generated)
+
+- [Personal-Jam](https://github.com/robinAxelsson/personal-jam) [ Next.js ] - repository for salihaxelsson.com
+
+***private projects are viewed at request**
+
+
+## Live web content
 - [Jekyll My Cloud Development Blog](https://robinaxelsson.github.io/) - GitHubPages - Articles and Course assignments from cloud development course (Azure, Docker, GitHub Actions).
 - [salihaxelsson.com](https://salihaxelsson.com/) my personal site that is targeting recruiters.
 - [wedding app frontend](https://kind-goldwasser-ae48e1.netlify.app/)
 - [Frontend exam - geolocation SPA-app](https://stoic-panini-7fb81f.netlify.app/)
 - [Vanilla javascript Snake](https://nervous-shannon-18ef1a.netlify.app/)
 - [Bobbysoft nuget for Service Decorator](https://www.nuget.org/packages/Bobbysoft.Extensions.DependencyInjection.Decoration)
+- [Bjj-scorelite](https://bjj-scorelite.netlify.app/) (Brazilian Jiu-Jitsu score tool developed for mobile devices)
 
-### Python Backend/Full stack
 
-- [Python imonitor](https://github.com/RobinAxelsson/rax-imonitor) Coding challenge backend with concurrent programming private*
-- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
+## 2024
 
-***private projects are viewed at request**
+- [C# Network CLI](https://github.com/RobinAxelsson/network_cli) [ SharpPcap | HttpListener ]
+    - Http network programming POC on local host.
 
----
-
-### Multi-language practice repository
- 
-- [Code Love](https://github.com/RobinAxelsson/code-love) - Mini programs in all languages
-
----
+- [HTML/JS/CSS BJJ Scorelite](https://github.com/RobinAxelsson/bjj-scorelite) [ Vanilla Web ]
+    - Brazilian Jiu Jitsu scoring tool
 
 ## 2023
  
-- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) private project
-- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
-- [Ludo V3](https://github.com/RobinAxelsson/LudoV3) re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture.
-- [Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) extracting general code as it goes to nuget packages.
-- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator)
- 
----
+- [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) [ Rest-Client | REST API Server ]
+    - private project for fetching weather data from different web api:s.
+
+- [Bobbysoft with Service Decorator](https://github.com/RobinAxelsson/Bobbysoft) [ NUGET | GitHub Actions | Decorator Pattern ]
+    - A repository for creating and publishing nuget packages in a pipeline
+    - Including ServiceDecorator that builds on the IServiceCollection to decorate already injected classes.
+
+ - [Personal-Jam](https://github.com/robinAxelsson/personal-jam) [ Next.js ]
+    - My personal home page with different nice solutions for generating static content to netlify.
 
 ## 2022
 
-- [Python/Flask PyWind - weather web app](https://github.com/RobinAxelsson/pywind)
-- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator)
-- [C# Rax.ServiceDecorator](https://github.com/RobinAxelsson/Rax.IocTools)
-- [C# dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template)
-- [C# dotnet-tool-info](https://github.com/RobinAxelsson/dotnet-tool-info) 
-- [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/)
-- [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) 📚
+- [C# Ludo V3](https://github.com/RobinAxelsson/LudoV3) [ Game-engine | Client | Server | Protocols | WIP ]
+    - re-write and redesign of Ludo V1 to become a multi protocol multi client game service with layered architecture (WIP not for demo yet)
 
----
+- [Python imonitor](https://github.com/RobinAxelsson/rax-imonitor)  [ REST-API | Concurrency | Computer-metrics | Flask ]
+    - Python backend coding challenge for company Cetasol reading computer metrics and serving them on an Rest API private*
+
+- [Python/Flask PyWind](https://github.com/RobinAxelsson/pywind) [ REST-API | Web-app | Full-Stack | Flask ]
+    - Weather web app for learning python api programming
+
+- [C# toll-calculator](https://github.com/RobinAxelsson/toll-calculator) [ API | Code-Project-Challenge ]
+    - An application specification that mimics the challenges of road tolls (similar to gothenburgs road tolls for taxation) for AFRY coding challenge
+
+- [C#/React wedding-app](https://github.com/RobinAxelsson/wedding-app) -> [Netlify demo](https://kind-goldwasser-ae48e1.netlify.app/) [ Full-Stack | Docker | Azure | React | Tailwind ]
+    - App for managing wedding invitations 
+
+- [C# dotnet-tool-template](https://github.com/RobinAxelsson/dotnet-tool-template) [ Console-UI | DotNet Tool | DI ]
+    - Home made framework for CLI apps
+
+- [Mixed langs - Code Love](https://github.com/RobinAxelsson/code-love) [ Polyglot ]
+    - Mini programs in all languages
+
 
 ## 2021
+
+<details>
+<summary>Production and Software Delivery📚</summary>
+
+- [TypeScript/React UberTrains](https://github.com/RobinAxelsson/UberTrains) 📚
+
+</details>
 
 <details>
 <summary>.NET Cloud Development (Azure)📚</summary>
@@ -155,7 +166,7 @@
 
 </details>
 
----
+
 ## 2020
 
 <details>
@@ -182,7 +193,6 @@
 
 </details>
 
----
 
 ## Inspiration & templates
 
