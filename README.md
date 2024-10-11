@@ -14,8 +14,8 @@
 - [C# Cloud Calculators Exam Project](https://github.com/RobinAxelsson/AzureCloudExam) - CI/CD, Azure Functions, GitHub Actions, Cosmos Db, Bash Scripts
 
 ### Nuget, Template
-- [C# Bobbysoft.ServiceDecorator](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and other.
-- [C# Bobbysoft.Cli.Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
+- [C# Bobbysoft.ServiceDecorator](https://github.com/RobinAxelsson/Bobbysoft.ServiceDecorator) - IOC Dependency injection tool and other.
+- [C# Bobbysoft.Cli.Template](https://github.com/RobinAxelsson/Bobbysoft.Cli.Template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
 
 ### API
 
