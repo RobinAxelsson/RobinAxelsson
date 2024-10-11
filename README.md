@@ -14,8 +14,8 @@
 - [C# Cloud Calculators Exam Project](https://github.com/RobinAxelsson/AzureCloudExam) - CI/CD, Azure Functions, GitHub Actions, Cosmos Db, Bash Scripts
 
 ### Nuget, Template
-- [C# ServiceDecorator - Bobbysoft](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and other.
-- [C# Dotnet-Tool-Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
+- [C# Bobbysoft.ServiceDecorator](https://github.com/RobinAxelsson/Bobbysoft) - IOC Dependency injection tool and other.
+- [C# Bobbysoft.Cli.Template](https://github.com/RobinAxelsson/dotnet-tool-template) - DependencyInjection/StdIn/TextCopy Console App Framework inspired by ASP.NET.
 
 ### API
 
@@ -39,7 +39,6 @@
 - [wedding app frontend](https://kind-goldwasser-ae48e1.netlify.app/)
 - [Frontend exam - geolocation SPA-app](https://stoic-panini-7fb81f.netlify.app/)
 - [Vanilla javascript Snake](https://nervous-shannon-18ef1a.netlify.app/)
-- [Bobbysoft nuget for Service Decorator](https://www.nuget.org/packages/Bobbysoft.Extensions.DependencyInjection.Decoration)
 - [Bjj-scorelite](https://bjj-scorelite.netlify.app/) (Brazilian Jiu-Jitsu score tool developed for mobile devices)
 
 
