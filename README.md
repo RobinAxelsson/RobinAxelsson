@@ -44,6 +44,9 @@
 
 ## 2024
 
+- [Go word list CLI](https://github.com/RobinAxelsson/go_words) [ Go | CLI | first-project | File I/O ]
+    - Building similar to an todo app with CLI add, remove, list, remove at.
+
 - [C# Network CLI](https://github.com/RobinAxelsson/network_cli) [ SharpPcap | HttpListener ]
     - Http network programming POC on local host.
 
