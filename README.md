@@ -44,6 +44,9 @@
 
 ## 2024
 
+- [x86Calc](https://github.com/RobinAxelsson/x86Calc) [ x86-assembly | CLI ]
+    - A full CLI Calculator project for learning assembly.
+ 
 - [Go word list CLI](https://github.com/RobinAxelsson/go_words) [ Go | CLI | first-project | File I/O ]
     - Building similar to an todo app with CLI add, remove, list, remove at.
 
