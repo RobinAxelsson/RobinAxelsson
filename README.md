@@ -57,6 +57,9 @@
     - Brazilian Jiu Jitsu scoring tool
 
 ## 2023
+
+- [C-Strings](https://github.com/RobinAxelsson/c_strings) [ Pure C ]
+    - Implementing my own standard string methods.
  
 - [C#- True Wind](https://github.com/RobinAxelsson/Rax.TrueWind) [ Rest-Client | REST API Server ]
     - private project for fetching weather data from different web api:s.
