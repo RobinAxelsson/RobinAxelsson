@@ -41,6 +41,9 @@
 - [Vanilla javascript Snake](https://nervous-shannon-18ef1a.netlify.app/)
 - [Bjj-scorelite](https://bjj-scorelite.netlify.app/) (Brazilian Jiu-Jitsu score tool developed for mobile devices)
 
+## 2025
+
+- [fullstack .NET platform](https://github.com/RobinAxelsson/fullstack-platform/) [ C# | Docker | Blazor | .NET 9 | Entity Framework | Powershell ]
 
 ## 2024
 
