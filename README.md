@@ -43,10 +43,11 @@
 
 ## 2025
 
-- [chat-puppet](https://github.com/RobinAxelsson/chat_puppet) [ C# | Docker | Blazor | .NET 9 | Entity Framework | Powershell ]
+- [chat-puppet](https://github.com/RobinAxelsson/chat_puppet) [ JavaScript | Playwright | Chrome | ChatGPT |  Chrome DevTools Protocol CDP | web sockets ]
     - ChatGPT browser-command line integration, demo GIF included
       
 - [fullstack .NET platform](https://github.com/RobinAxelsson/fullstack-platform/) [ C# | Docker | Blazor | .NET 9 | Entity Framework | Powershell | nginx | SQL-Server ]
+    - Originally a hiring coding test project.
 
 ## 2024
 
